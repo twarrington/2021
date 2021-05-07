@@ -1,0 +1,2 @@
+curl --location -g --request GET 'https://www.leadershipflorida.org/api/config/members' \
+--header 'Authorization: Basic 	eha'
